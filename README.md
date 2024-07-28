@@ -4,7 +4,11 @@ The NLP Project focuses on applying Natural Language Processing techniques to an
 # NLP Project
 
 ## Description
-
+Team Members
+- Anshuman Jha (25PGAI0022)
+- Divyakumar Sanghvi(25PGAI0035)
+- Karthik Boinepally(25PGAI0127)
+  
 ### Introduction
 The NLP Project focuses on applying Natural Language Processing techniques to analyze and interpret textual data. This project encompasses various stages of data handling, from preprocessing to model training and evaluation.
 
